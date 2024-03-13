@@ -17,12 +17,9 @@ const Layout = () => {
             </Nav>
           </Navbar.Collapse>
       </Navbar>
-      <article>
-        {
-
-        }
+      
         <Outlet/>
-      </article>
+     
     </>
   );
 };
